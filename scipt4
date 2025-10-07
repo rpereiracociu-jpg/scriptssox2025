@@ -1,0 +1,13 @@
+#!usr/bin/env bash
+
+set -e
+set -u
+set -o
+
+read var
+
+while [ $var !=":q" ]
+do
+   read var
+do
+
